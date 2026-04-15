@@ -7,13 +7,7 @@ http://185.204.32.50:8811/BBV2/video.m3u8
 http://falcon.ac:5000/live/gazissiptv_kos1975/fz5cp9MC/227038.m3u
 #EXTINF:-1,Big Brother Vip Albania 2 HD
 http://falcon.ac:5000/live/gazissiptv_kos1975/fz5cp9MC/227039.m3u
-
-
-
 #EXTINF:-1 xui-id="356" tvg-id="" tvg-name="Ferma Vip 1" tvg-logo="http://mitnicktv.ddns.net:80/images/yxislIY5Vf8PWQsYJK-sC2b8ngORpUD72_f_yYFZ5Oybrkxd0f_vLFFYpqan3FNf.png" group-title="",Ferma Vip 1 Klani Im
-
-
-
 http://188.172.107.157:15151/live/fermavip1ott/playlist.m3u8
 #EXTINF:-1 xui-id="356" tvg-id="" tvg-name="Ferma Vip 1" tvg-logo="http://mitnicktv.ddns.net:80/images/yxislIY5Vf8PWQsYJK-sC2b8ngORpUD72_f_yYFZ5Oybrkxd0f_vLFFYpqan3FNf.png" group-title="",Ferma Vip 2 Klani Im 
 http://185.23.110.8:5252/live/fermavip2ott/playlist.m3u8
@@ -2729,54 +2723,15 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,Atv
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-
-#EXTINF:-1 tvg-id="sinemaaile2" tvg-logo="https://img.dsmartgo.com.tr/content/e/Mq/22898/Thumbnail.png" tvg-name="Sinema Aile 2" group-title="",BS ACTION1
-https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="filmscreen" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" tvg-name="Film Screen (Aktif)" group-title="",BS FAMILY
-https://mss.ayakkabiparti.lol/bsfamily/index.m3u8
-#EXTINF:-1 tvg-id="epicdrama" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" tvg-name="Epic Drama (Devre Dışı)" group-title="",BS PREMIER
-https://mss.ayakkabiparti.lol/bspremier1/index.m3u8
-#EXTINF:-1 tvg-id="sinemakomedi2" tvg-logo="https://img.dsmartgo.com.tr/content/o/oG/22900/Thumbnail.png" tvg-name="Sinema Komedi 2" group-title="",BS TÜRK
-https://mss.ayakkabiparti.lol/bsturk/index.m3u8
-
-#EXTINF:-1 tvg-id="sinemaaile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png" tvg-name="Sinema Aile" group-title="",Sinema Aile
-https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-id="sinemaaksiyon" tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png" tvg-name="Sinema Aksiyon" group-title="",Sinema Aksiyon
-https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
-#EXTINF:-1 tvg-id="sinemaaksiyon2" tvg-logo="https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png" tvg-name="Sinema Aksiyon 2" group-title="",Sinema Aksiyon 2
-https://mss.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
-#EXTINF:-1 tvg-id="sinemakomedi" tvg-logo="https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png" tvg-name="Sinema Komedi" group-title="",Sinema Komedi
-https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8
-#EXTINF:-1 tvg-id="sinematv" tvg-logo="https://img.dsmartgo.com.tr/content/T/QU/22894/Thumbnail.png" tvg-name="Sinema Tv" group-title="",Sinema Tv
-https://mss.ayakkabiparti.lol/sinema/index.m3u8
-#EXTINF:-1 tvg-id="sinematv2" tvg-logo="https://img.dsmartgo.com.tr/content/Y/3N/22904/Thumbnail.png" tvg-name="Sinema Tv 2" group-title="",Sinema Tv 2
-https://mss.ayakkabiparti.lol/sinema2/index.m3u8
-#EXTINF:-1 tvg-id="sinematv1001" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" tvg-name="Sinema Tv 1001" group-title="",Sinema Tv 1001
-https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
-#EXTINF:-1 tvg-id="sinematv1002" tvg-logo="https://img.dsmartgo.com.tr/content/C/XZ/22902/Thumbnail.png" tvg-name="Sinema Tv 1002" group-title="",Sinema Tv 1002
-https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="",PLAYSINEMA
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="",FILMSCREEN
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-
-
 #EXTINF:-1,Kanal 65
-
 https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="",PATI TV 1
 http://104.238.23.182/d/live/out.m3u8
 #EXTINF:-1,PATI TV 2
-
 http://5.178.103.239:55/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="",RIZETÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
@@ -2968,8 +2923,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-TENSIONS-TV-ENG_yupptv/v1/master/61
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-WESHORT-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8?hdnts=st%3D1754999290~exp%3D1755020890~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-WESHORT-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fea019bed-a45e-4dfe-a452-84f5f2f76ea9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.8.145_yuppfast_2_channel_57_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.8.145_yuppfast_2_channel_57_-1~hmac%3D3a1cca2427e8863c6a3bff4d231991dc0267071bc0e31d9cb8fd59889d154a8b
-
-
 #EXTINF:-1 tvg-id="256" tvg-chno="308" tvg-name="best-action-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png" group-title="", BEST ACTION TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -2979,24 +2932,9 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79
 #EXTINF:-1 tvg-id="257" tvg-chno="309" tvg-name="best-drama-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png" group-title="", BEST DRAMA TV 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8?hdnts=st%3D1754999291~exp%3D1755020891~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_DRAMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9800ea5c-2183-4160-9f01-70e5d6428a50%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.8.145_yuppfast_2_channel_257_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.8.145_yuppfast_2_channel_257_-1~hmac%3D5c883ed868dcf44390e5beb36cdc3bd5145d733edbd85802ab2d7a77c750e774
-
-#EXTINF:-1 tvg-id="258" tvg-chno="310" tvg-name="best-thriller-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png" group-title="", BEST THRILLER TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8?hdnts=st%3D1754999291~exp%3D1755020891~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_THRILLER_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fce168a85-c8d4-41d6-a597-cc8fd7baddd9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.8.145_yuppfast_2_channel_258_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.8.145_yuppfast_2_channel_258_-1~hmac%3D2506ca01d728c6976367a73528f5a66e368bf4b0c721f622489d7cb0666623d1
-
-
-#EXTINF:-1,Movies Phere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Action Hollywood
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1d:-1,Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1,Movie
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1,Filma Kinez 
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
-#EXTINF:-1,4+
-
-https://euc11.playlist.ttvnw.net/v1/playlist/CroG-0YZkSrpj6OlLGjZPfjONuh4JQ3jgXdBz5daDqKwNQPvq3-XNvfZC8jt2nuoxLEsv0Z32T5KTFgnRFAjVphjwBD6bKeN4NkeHuz696ahtiqhbFKzVrNKrm5SnyJDcE-pdHSNJBVY8L9RTsv4-bE3yN-mLPqCME3PnSQttBD0czwlfi7K4K16WZOy2gZoxopsRBvQ-S_rngqvVG7f-0M0HsHE5VjvqXt50aakN5CWQv_Q2Cg6EqRMr9FEyvOc_j6Im7yhU8I2WhaPzS7pAay_yY7CCST8XtzPxhC0Tddrn1JtuVYuFpKCX2kwZGBQnRoh5EN0xytxOhDNQFnlzloI-2uSuzoH7UiU7VtjsY3A2XkYFhjKYoY3wpvqkR984UpFAH2bTmGQYrC9Lco8Y3DMlTWJD93HylXV0WkpZWDfnPigWRiv0DAl_A-ipNN0BUY4wrhn8jHGJ8hXsQCoU6bGAdAlrR5yw7eMsjG7RO88skW5OOPh6J0oa8vGRNjtcF4nX8gnbAVK0iXb7r05Sm6KSzII_luLzMVcJ7nQcNiMUwMc9hJv334Ok1BA4fFpF1ARRJFeMF4ydU22S8jZ_NbMaA0bELD0MERGcAGo3ADjd3DGc4ZhGruJe8GU98vgAVfkx8c_vTdySN_Z0wtQUM0h71fl5vJ0Ae9vhBtJZxYlyRli3YtCBKxUWN9jR_5KwZotbscDcP3LAJM9q3Ili0TpPPoMQesCmunje_SG9OUTd59_JujtfwxE1T9PzCE0vzU24GAPXQXUpYRSy2nidUnK4LNTgD1tK48yE8Z2sYgT33B4N0ckR8ag-PPGTXFuFzTjtE5fYW7VDNKPyY7oa-n28SDbU7MDLZ5Qlzek2p5fQS2ClRHMiAIDWQAAPXmG_fGXmH5ZWqfkKepYEu4yvwz6KKlIxei4uDABUk7SacXvCCw3E96dSqm0AJTiZj1y798w38H8jyz2maFL5f_rp7xtk1yVtipSl0-tvdJF7y3dSYViWKb1dvdI13dvMC8aqLx3DyA2zjkem1o1zAmKgoXS0ncAhC1uv954wt_4R8Wtcus1WYrjJQ8_xsowgYXNJGhNenUzFOeoy8l8AhoM06cXoHQ2UREkkybEIAEqCWV1LXdlc3QtMjDxDg.m3u8
