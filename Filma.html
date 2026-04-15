@@ -1,32 +1,12 @@
-const movies = [
-  {name:"Film 1", url:"LINK_FILM1.mp4"},
-  {name:"Film 2", url:"LINK_FILM2.mp4"}
-];
+<h2>🎬 Filma</h2>
 
-const cartoons = [
-  {name:"Vizatimore 1", url:"LINK_CARTOON1.mp4"},
-  {name:"Vizatimore 2", url:"LINK_CARTOON2.mp4"}
-];
+<button onclick="play('film1.mp4')">Film 1</button>
+<button onclick="play('film2.mp4')">Film 2</button>
 
-function loadList(items){
-  let html = "";
-  items.forEach(i=>{
-    html += `<button onclick="play('${i.url}','${i.name}')">${i.name}</button>`;
-  });
-  document.getElementById("list").innerHTML = html;
-}
+<video id="player" controls></video>
 
-function showMovies(){
-  loadList(movies);
-}
-
-function showCartoons(){
-  loadList(cartoons);
-}
-
-function play(url,name){
+<script>
+function play(url){
   document.getElementById("player").src = url;
-  document.getElementById("title").innerText = name;
 }
-
-showMovies();
+</script>
