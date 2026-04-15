@@ -1,1 +1,32 @@
+const movies = [
+  {name:"Film 1", url:"LINK_FILM1.mp4"},
+  {name:"Film 2", url:"LINK_FILM2.mp4"}
+];
 
+const cartoons = [
+  {name:"Vizatimore 1", url:"LINK_CARTOON1.mp4"},
+  {name:"Vizatimore 2", url:"LINK_CARTOON2.mp4"}
+];
+
+function loadList(items){
+  let html = "";
+  items.forEach(i=>{
+    html += `<button onclick="play('${i.url}','${i.name}')">${i.name}</button>`;
+  });
+  document.getElementById("list").innerHTML = html;
+}
+
+function showMovies(){
+  loadList(movies);
+}
+
+function showCartoons(){
+  loadList(cartoons);
+}
+
+function play(url,name){
+  document.getElementById("player").src = url;
+  document.getElementById("title").innerText = name;
+}
+
+showMovies();
