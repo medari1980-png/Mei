@@ -2,37 +2,46 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Filma Shqip</title>
+<title>Kanal Filma</title>
+
+<style>
+body {background:black;color:white;text-align:center;font-family:Arial}
+video {width:100%; height:90vh;}
+</style>
+
 </head>
 
-<body style="background:#111;color:white;font-family:Arial">
+<body>
 
-<h2>🎬 Filma Shqip</h2>
+<h3>🎬 Kanal Filma Shqip</h3>
 
-<button onclick="play('https://archive.org/serve/agimet-e-stines-se-madhe-1981-komplet-yt/Agimet%20e%20Stin%C3%ABs%20s%C3%AB%20madhe%20%281981%29%20komplet.mp4')">
-Agimet e Stinës së Madhe (1981)
-</button>
-
-<button onclick="play('https://archive.org/serve/ngjyrat-e-moshes-1990/Ngjyrat%20e%20mosh%C3%ABs%20%281990%29%20EDIT.mp4')">
-Ngjyrat e Moshës (1990)
-</button>
-
-<button onclick="play('https://archive.org/serve/une-e-dua-eren-1991/Un%C3%AB%20e%20dua%20Er%C3%ABn%20%281991%29%20EDIT.mp4')">
-Unë e dua Erën (1991)
-</button>
-
-<button onclick="play('https://archive.org/serve/guret-e-shtepise-sime-1985/Gur%C3%ABt%20e%20sht%C3%ABpis%C3%AB%20sime%20%281985%29%20EDIT.mp4')">
-Gurët e Shtëpisë Sime (1985)
-</button>
-
-<br><br>
-
-<video id="player" controls width="100%"></video>
+<video id="player" controls autoplay></video>
 
 <script>
-function play(url){
-  document.getElementById("player").src = url;
+
+let filma = [
+"https://archive.org/serve/agimet-e-stines-se-madhe-1981-komplet-yt/Agimet%20e%20Stin%C3%ABs%20s%C3%AB%20madhe%20%281981%29%20komplet.mp4",
+"https://archive.org/serve/ngjyrat-e-moshes-1990/Ngjyrat%20e%20mosh%C3%ABs%20%281990%29%20EDIT.mp4",
+"https://archive.org/serve/une-e-dua-eren-1991/Un%C3%AB%20e%20dua%20Er%C3%ABn%20%281991%29%20EDIT.mp4",
+"https://archive.org/serve/guret-e-shtepise-sime-1985/Gur%C3%ABt%20e%20sht%C3%ABpis%C3%AB%20sime%20%281985%29%20EDIT.mp4"
+];
+
+let index = 0;
+let player = document.getElementById("player");
+
+function luajFilm(){
+  player.src = filma[index];
+  player.play();
 }
+
+player.onended = function(){
+  index++;
+  if(index >= filma.length) index = 0;
+  luajFilm();
+}
+
+luajFilm();
+
 </script>
 
 </body>
