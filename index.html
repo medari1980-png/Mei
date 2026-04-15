@@ -2953,5 +2953,124 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1,Filma Kinez 
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TV Filma Shqip PRO</title>
+  <style>
+    body { margin:0; background:#000; color:white; font-family:Arial; text-align:center; }
+
+    .header {
+      padding:10px;
+      font-size:20px;
+      background:#111;
+    }
+
+    .container {
+      position:relative;
+      width:90%;
+      margin:15px auto;
+    }
+
+    video {
+      width:100%;
+      border-radius:12px;
+      background:black;
+    }
+
+    .logo {
+      position:absolute;
+      top:10px;
+      left:10px;
+      width:110px;
+      opacity:0.85;
+    }
+
+    .watermark {
+      position:absolute;
+      bottom:10px;
+      right:10px;
+      font-size:14px;
+      opacity:0.6;
+    }
+
+    .controls {
+      margin-top:10px;
+    }
+
+    button {
+      padding:10px 15px;
+      margin:5px;
+      border:none;
+      border-radius:6px;
+      background:#222;
+      color:white;
+      cursor:pointer;
+    }
+
+    button:hover {
+      background:#444;
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">📺 TV Filma Shqip PRO - 24/7</div>
+
+<div class="container">
+
+  <!-- LOGO -->
+  <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_placeholder.png">
+
+  <!-- VIDEO PLAYER -->
+  <video id="player" controls autoplay></video>
+
+  <div class="watermark">TV PRO</div>
+</div>
+
+<!-- CONTROLS -->
+<div class="controls">
+  <button onclick="prev()">⏮ Prev</button>
+  <button onclick="next()">⏭ Next</button>
+</div>
+
+<script>
+let lista = [
+  "https://archive.org/serve/agimet-e-stines-se-madhe-1981-komplet-yt/Agimet%20e%20Stin%C3%ABs%20s%C3%AB%20madhe%20%281981%29%20komplet.mp4"
+"https://archive.org/serve/ngjyrat-e-moshes-1990/Ngjyrat%20e%20mosh%C3%ABs%20%281990%29%20EDIT.mp4"
+"https://archive.org/serve/une-e-dua-eren-1991/Un%C3%AB%20e%20dua%20Er%C3%ABn%20%281991%29%20EDIT.mp4"
+"https://archive.org/serve/guret-e-shtepise-sime-1985/Gur%C3%ABt%20e%20sht%C3%ABpis%C3%AB%20sime%20%281985%29%20EDIT.mp4"
+];
+
+let index = 0;
+let player = document.getElementById("player");
+
+function luaj() {
+  player.src = lista[index];
+  player.play();
+}
+
+function next() {
+  index++;
+  if(index >= lista.length) index = 0;
+  luaj();
+}
+
+function prev() {
+  index--;
+  if(index < 0) index = lista.length - 1;
+  luaj();
+}
+
+player.onended = function() {
+  next();
+};
+
+luaj();
+</script>
+
+</body>
+</html>
+
 
 
