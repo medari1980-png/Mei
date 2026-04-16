@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Filma Shqip HD" group-title="Filma",Filma Shqip HD
-https://mei-jade.vercel.app
 #EXTINF:-1 xui-id="241" tvg-id="" tvg-name="BB VIP ALBANIA 1" tvg-logo="http://185.217.127.86:80/images/9dmuuAfdKRI1a2Rt3YCxLgPDzKh9ZVl9HcQHfXiNy6b3TXEKQd-0zXxDkkmF6GYvrRu-GMExDFHv-CLIPPbQRChWg64invVdOVNEDBxRyiIsUMhUfEWsiZin5KThG5I5.png" group-title="► BIG BROTHER & FERMA",BB VIP ALBANIA 1 Ultra
 http://185.204.32.50:8811/BBV1/video.m3u8
 #EXTINF:-1 xui-id="242" tvg-id="" tvg-name="BB VIP ALBANIA 2" tvg-logo="http://185.217.127.86:80/images/9dmuuAfdKRI1a2Rt3YCxLgPDzKh9ZVl9HcQHfXiNy6b3TXEKQd-0zXxDkkmF6GYvrRu-GMExDFHv-CLIPPbQRChWg64invVdOVNEDBxRyiIsUMhUfEWsiZin5KThG5I5.png" group-title="",BB VIP ALBANIA 2 Ultra
