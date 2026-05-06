@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:0 CUID="263" tvg-name="RTSH SPORT" tvg-logo="http://albepg.com/tvlogi/RTSH%20Sport.png" group-title="► SPORT SHQIP",RTSH SPORT
+http://185.204.32.50:8811/26rtshsport/video.m3u8
+#EXTINF:0 CUID="247" tvg-name="SUPER SPORT NEWS" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%20News.png" group-title="",SUPER SPORT NEWS
+http://185.204.32.50:8811/26SS1/video.m3u8
+#EXTINF:0 CUID="248" tvg-name="SUPERSPORT 2" tvg-logo="http://albepg.com/tvlogi/SuperSport%202.png" group-title="",SUPERSPORT 2
+http://185.204.32.50:8811/26SS2/video.m3u8
+#EXTINF:0 CUID="249" tvg-name="SUPERSPORT 3" tvg-logo="http://albepg.com/tvlog/SuperSport%203.png" group-title="",SUPERSPORT 3
+http://185.204.32.50:8811/26SS3/video.m3u8
+#EXTINF:0 CUID="250" tvg-name="SUPERSPORT 4" tvg-logo="http://albepg.com/tvlogi/SuperSport%204.png" group-title="",SUPERSPORT 4
+http://185.204.32.50:8811/26SS4/video.m3u8
+#EXTINF:0 CUID="251" tvg-name="SUPERSPORT 5" tvg-logo="http://albepg.com/tvlogi/SuperSport%205.png" group-title="",SUPERSPORT 5
+http://185.204.32.50:8811/26SS5/video.m3u8
+#EXTINF:-1,SUPERSPORT 6
+
+
+http://185.204.32.50:8811/26SS6/video.m3u8
+
+#EXTINF:-1,SUPERSPORT 7
+
+http://185.204.32.50:8811/26SS7/video.m3u8
+#EXTINF:0 CUID="254" tvg-name="TRING SPORT 1" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="",TRING SPORT 1
+http://185.204.32.50:8811/26TringSport1/video.m3u8
+#EXTINF:0 CUID="255" tvg-name="TRING SPORT 2" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="",TRING SPORT 2
+http://185.204.32.50:8811/26TringSport2/video.m3u8
+#EXTINF:0 CUID="256" tvg-name="TRING SPORT 3" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="",TRING SPORT 3
+http://185.204.32.50:8811/26TringSport3/video.m3u8
+#EXTINF:-1,Tring Sport 4
+
+http://185.204.32.50:8811/26TringSport4/video.m3u8
+
+#EXTINF:-1,Tring Sport 5
+
+http://185.204.32.50:8811/26TringSport5/video.m3u8
+
+#EXTINF:-1,Vizion Plus
+https://mfe01.tring.al/delta/105/out/u/1220_1.m3u8
+#EXTINF:-1,TRT 1 HD
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1,CBS
+
+http://195.201.243.254/stream10/index.m3u8
