@@ -2664,4 +2664,17 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1,Movie
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1,Filma Kinez 
-https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
+https://tcineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
+#EXTINF:-1,Tring Sport 1
+https://mfe01.tring.al/dash/CH_Sport1/playlist.mpd
+#EXTINF:-1,Tring Sport 3
+https://mfe01.tring.al/dash/CH_Sport3/playlist.mpd
+#EXTINF:-1,Tring Sport 4
+https://mfe01.tring.al/dash/CH_Sport4/playlist.mpd
+#EXTINF:-1,Tring Sport 5
+https://mfe01.tring.al/dash/CH_Sport5/playlist.mpd
+#EXTINF:-1,Tring Sport 6
+https://mfe01.tring.al/dash/CH_Sport6/playlist.mpd
+#EXTINF:-1,Tring Sport 7
+https://mfe01.tring.al/dash/CH_Sport7/playlist.mpd
+
