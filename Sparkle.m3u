@@ -2655,19 +2655,159 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1,Filma Kinez 
 https://tcineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
+EXTINF:-1 group-title=”Albania”,RTK
+rtmp://46.183.120.158/ott/rtk
 
-#EXTINF:-1,Sky sport 1
+#EXTINF:-1 group-title=”Albania”,Klan Kosova
+rtmp://46.183.120.158/ott/klankosova
 
-http://62.209.36.244:8081/udp/239.100.41.1:1234
+#EXTINF:-1 group-title=”Albania”,KTV
+rtmp://46.183.120.158/ott/kohavizion
 
-#EXTINF:-1,Sky sport 2
+#EXTINF:-1 group-title=”Albania”,TV21
+rtmp://46.183.120.158/ott/rtv21
 
-http://62.209.36.244:8081/udp/239.100.42.1:1234
+#EXTINF:-1 group-title=”Albania”,Klan HD
+rtmp://46.183.120.158/ott/klanhd
 
-#EXTINF:-1,Sky bundesliga 1
+#EXTINF:-1 group-title=”Albania”,Top Channel
+rtmp://46.183.120.158/ott/topchannelhd
 
-http://62.209.36.244:8081/udp/239.100.40.1:1234
+#EXTINF:-1 group-title=”Albania”,T
+rtmp://46.183.120.158/ott/t
 
-#EXTINF:-1,Sky sport 1 HD
+#EXTINF:-1 group-title=”Albania”,T+1
+rtmp://46.183.120.158/ott/tplus1
 
-http://62.209.36.244:8081/udp/239.100.70.1:1234
+#EXTINF:-1 group-title=”Albania”,Komedi
+rtmp://46.183.120.158/ott/filmkomedi
+
+#EXTINF:-1 group-title=”Albania”,Aksion
+rtmp://46.183.120.158/ott/filmaksion
+
+#EXTINF:-1 group-title=”Albania”,Hits
+rtmp://46.183.120.158/ott/filmhits
+
+#EXTINF:-1 group-title=”Albania”,Hits+1
+rtmp://46.183.120.158/ott/filmhitsplus1
+
+#EXTINF:-1 group-title=”Albania”,Drama
+rtmp://46.183.120.158/ott/filmdrame
+
+#EXTINF:-1 group-title=”Albania”,Thriller
+rtmp://46.183.120.158/ott/filmthriller
+
+#EXTINF:-1 group-title=”Albania”,Film 1 HD
+rtmp://46.183.120.158/ott/filmnjehd
+
+#EXTINF:-1 group-title=”Albania”,Film 2 HD
+rtmp://46.183.120.158/ott/filmdyhd
+
+#EXTINF:-1 group-title=”Albania”,Fox life
+rtmp://46.183.120.158/ott/foxlife
+
+#EXTINF:-1 group-title=”Albania”,Fox Crime
+rtmp://46.183.120.158/ott/foxcrime
+
+#EXTINF:-1 group-title=”Albania”,Plus HD
+rtmp://46.183.120.158/ott/plushd
+
+#EXTINF:-1 group-title=”Albania”,EXP Shkence
+rtmp://46.183.120.158/ott/expshkence
+
+#EXTINF:-1 group-title=”Albania”,Exp Natyra
+rtmp://46.183.120.158/ott/expnatyra
+
+#EXTINF:-1 group-title=”Albania”,EXP Histori
+rtmp://46.183.120.158/ott/exphistori
+
+#EXTINF:-1 group-title=”Albania”,National Geografic
+rtmp://46.183.120.158/ott/natgeo
+
+#EXTINF:-1 group-title=”Albania”,Discovery HD
+rtmp://46.183.120.158/ott/discoveryhd
+
+#EXTINF:-1 group-title=”Albania”,National Geografic Wild
+rtmp://46.183.120.158/ott/natgeowild
+
+#EXTINF:-1 group-title=”Albania”,Baby TV
+rtmp://46.183.120.158/ott/babytv
+
+#EXTINF:-1 group-title=”Albania”,Bang Bang
+rtmp://46.183.120.158/ott/bangbang
+
+#EXTINF:-1 group-title=”Albania”,Cufo TV
+rtmp://46.183.120.158/ott/cufotv
+
+#EXTINF:-1 group-title=”Albania”,TRING TRING
+http://185.75.56.37:8056
+
+#EXTINF:-1 group-title=”Albania”,Junior TV
+rtmp://46.183.120.158/ott/juniortv
+
+#EXTINF:-1 group-title=”Albania”,Disney Channel
+rtmp://46.183.120.158/ott/disneychannel
+
+#EXTINF:-1 group-title=”Albania”,BB1
+rtmp://46.183.120.158/ott/bigbrother1
+
+#EXTINF:-1 group-title=”Albania”,BB2
+rtmp://46.183.120.158/ott/bigbrother2
+
+#EXTINF:-1 group-title=”Albania”,TVSH
+http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title=”Albania”,Channel ONE
+rtmp://46.183.120.158/ott/channelone
+
+#EXTINF:-1 group-title=”Albania”,A1 Report
+rtmp://46.183.120.158/ott/a1report
+
+#EXTINF:-1 group-title=”Albania”,First TV
+rtmp://46.183.120.158/ott/firsttv
+
+#EXTINF:-1 group-title=”Albania”,Alsat
+rtmp://46.183.120.158/ott/as
+
+#EXTINF:-1 group-title=”Albania”,ORA News
+rtmp://46.183.120.158/ott/oranews
+
+#EXTINF:-1 group-title=”Albania”,City TV
+rtmp://46.183.120.158/ott/citytv
+
+#EXTINF:-1 group-title=”Albania”,MAD TV
+rtmp://46.183.120.158/ott/madtv
+
+#EXTINF:-1 group-title=”Albania”,UTV News
+rtmp://46.183.120.158/ott/utvnews
+
+#EXTINF:-1 group-title=”Albania”,STV Folk
+rtmp://46.183.120.158/ott/stvfolk
+
+#EXTINF:-1 group-title=”Albania”,Folklorit
+http://81.7.13.162/hls/folklorit/index.m3u8
+
+#EXTINF:-1 group-title=”Albania”,ABC News
+rtmp://46.183.120.158/ott/abcnews
+
+#EXTINF:-1 group-title=”Albania”,Top-news
+rtmp://46.183.120.158/ott/topnews
+
+#EXTINF:-1 group-title=”Albania”,Music AL
+rtmp://46.183.120.158/ott/musical
+
+#EXTINF:-1 group-title=”Albania”,MY Musice
+rtmp://46.183.120.158/ott/mymusic
+
+#EXTINF:-1 group-title=”Albania”,TV ERA
+http://217.16.82.6:1935/zulu//era_2/simpletvmaclinkleri.m3u8
+
+#EXTINF:-1 group-title=”Albania”,tvjug
+rtmp://84.20.77.50/live//livestream2
+
+#EXTINF:-1 group-title=”Albania”,rrokum
+rtmp://82.114.65.202/live/rrokumtv
+
+#EXTINF:-1 group-title=”Albania”,Alsat-M
+http://81.
+
